@@ -12,6 +12,7 @@
 </div>
 
 ## Introduction
+## By Mudassir Alam
 
 A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
 It reduces the pain of coding responsive emails with dark mode support. It also takes care of inconsistencies between Gmail, Outlook, and other email clients for you.
